@@ -1,0 +1,9 @@
+D:\Data form C\假期单片机学习\项目\第五届ARM-ST智能设备大赛\MotionSim\上位机\上位机\bin\Debug\上位机.exe.config
+D:\Data form C\假期单片机学习\项目\第五届ARM-ST智能设备大赛\MotionSim\上位机\上位机\bin\Debug\上位机.exe
+D:\Data form C\假期单片机学习\项目\第五届ARM-ST智能设备大赛\MotionSim\上位机\上位机\bin\Debug\上位机.pdb
+D:\Data form C\假期单片机学习\项目\第五届ARM-ST智能设备大赛\MotionSim\上位机\上位机\obj\Debug\上位机.csprojResolveAssemblyReference.cache
+D:\Data form C\假期单片机学习\项目\第五届ARM-ST智能设备大赛\MotionSim\上位机\上位机\obj\Debug\上位机.Form1.resources
+D:\Data form C\假期单片机学习\项目\第五届ARM-ST智能设备大赛\MotionSim\上位机\上位机\obj\Debug\上位机.Properties.Resources.resources
+D:\Data form C\假期单片机学习\项目\第五届ARM-ST智能设备大赛\MotionSim\上位机\上位机\obj\Debug\上位机.csproj.GenerateResource.Cache
+D:\Data form C\假期单片机学习\项目\第五届ARM-ST智能设备大赛\MotionSim\上位机\上位机\obj\Debug\上位机.exe
+D:\Data form C\假期单片机学习\项目\第五届ARM-ST智能设备大赛\MotionSim\上位机\上位机\obj\Debug\上位机.pdb
