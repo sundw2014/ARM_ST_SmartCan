@@ -6,7 +6,7 @@
 #include "MotionSim.h"
 using namespace std;
 int main(){
-	freopen("D:\\data.m", "w", stdout);
+//	freopen("data.m", "w", stdout);
 	MotionSim simTest(0.001);
 	simTest.setSpeed(20, -15, -5);
 	simTest.posCalc(100);

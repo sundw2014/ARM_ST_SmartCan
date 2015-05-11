@@ -11,8 +11,8 @@ http://shop106001793.taobao.com/search.htm?spm=a1z10.5.w5002-3375901029.1.l1TXSl
 **************************************/
 #include "delay.h"
 
-u16 fac_ms;//全局变量
-u8 fac_us;//全局变量
+extern u16 fac_ms;//全局变量
+extern u8 fac_us;//全局变量
 
 #define BIT(x)	(1 << (x))
 

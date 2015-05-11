@@ -1,11 +1,5 @@
-#include "stm32f10x.h"
-#include "timer.h"
-#include "usart1.h"
-#include "delay.h"
-#include <stdio.h>
-
+#include "All_Include.h"
 void Delay(u32 nCount);
-
 int main()
 {
 	u16 step=0;

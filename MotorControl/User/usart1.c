@@ -1,10 +1,4 @@
-#include "stm32f10x.h"
-#include "stm32f10x_usart.h"
-#include "stm32f10x_dma.h"
 #include "usart1.h"
-#include <stdarg.h>
-#include <stdio.h>
-
 uint8_t SendBuff[SENDBUFF_SIZE];
 
 void USART1_Config(void)
