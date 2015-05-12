@@ -1,4 +1,6 @@
 #include "usart1.h"
+
+
 uint8_t SendBuff[SENDBUFF_SIZE];
 
 void USART1_Config(void)
@@ -29,6 +31,7 @@ void USART1_Config(void)
 	USART_InitStructure.USART_Mode = USART_Mode_Rx | USART_Mode_Tx;
 	USART_Init(USART1, &USART_InitStructure); 
 	USART_Cmd(USART1, ENABLE); 
+	
 }
 /*
  * º¯ÊýÃû£ºDMA_Config

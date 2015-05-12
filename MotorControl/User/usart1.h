@@ -2,6 +2,8 @@
 #define	__USART1_H
 
 #include "All_Include.h"
+#include <stdio.h>
+
 
 #define USART1_DR_Base  0x40013804
 #define SENDBUFF_SIZE 5000

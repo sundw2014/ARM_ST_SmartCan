@@ -1,5 +1,0 @@
--c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\CMSIS -I..\StdPeriph_Driver\inc -I..\User 
--I "D:\Program Files\Keil v4\ARM\RV31\INC" 
--I "D:\Program Files\Keil v4\ARM\CMSIS\Include" 
--I "D:\Program Files\Keil v4\ARM\Inc\ST\STM32F10x" 
--DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -o "timer.o" --omf_browse "timer.crf" --depend "timer.d" "..\User\Timer.c"

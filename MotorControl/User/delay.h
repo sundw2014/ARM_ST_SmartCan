@@ -3,6 +3,9 @@
 
 #include "All_Include.h"
 
+u16 fac_ms;//全局变量
+u8 fac_us;//全局变量
+
 void RCC_Config(void);
 void delay_ms(u16 nms);
 void delay_us(u32 nus);

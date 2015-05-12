@@ -1,16 +1,23 @@
-usart1.o: ..\User\usart1.c
-usart1.o: ..\CMSIS\stm32f10x.h
-usart1.o: ..\CMSIS\core_cm3.h
-usart1.o: D:\Program Files\Keil v4\ARM\ARMCC\bin\..\include\stdint.h
-usart1.o: ..\CMSIS\system_stm32f10x.h
-usart1.o: ..\User\stm32f10x_conf.h
-usart1.o: ..\StdPeriph_Driver\inc\stm32f10x_gpio.h
-usart1.o: ..\CMSIS\stm32f10x.h
-usart1.o: ..\StdPeriph_Driver\inc\stm32f10x_rcc.h
-usart1.o: ..\StdPeriph_Driver\inc\stm32f10x_tim.h
-usart1.o: ..\StdPeriph_Driver\inc\misc.h
-usart1.o: ..\StdPeriph_Driver\inc\stm32f10x_usart.h
-usart1.o: ..\StdPeriph_Driver\inc\stm32f10x_dma.h
-usart1.o: ..\User\usart1.h
-usart1.o: D:\Program Files\Keil v4\ARM\ARMCC\bin\..\include\stdio.h
-usart1.o: D:\Program Files\Keil v4\ARM\ARMCC\bin\..\include\stdarg.h
+.\usart1.o: ..\User\usart1.c
+.\usart1.o: ..\User\usart1.h
+.\usart1.o: ..\User\All_Include.h
+.\usart1.o: ..\CMSIS\stm32f10x.h
+.\usart1.o: ..\CMSIS\core_cm3.h
+.\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\usart1.o: ..\CMSIS\system_stm32f10x.h
+.\usart1.o: ..\User\stm32f10x_conf.h
+.\usart1.o: ..\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\usart1.o: ..\CMSIS\stm32f10x.h
+.\usart1.o: ..\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\usart1.o: ..\StdPeriph_Driver\inc\stm32f10x_tim.h
+.\usart1.o: ..\StdPeriph_Driver\inc\misc.h
+.\usart1.o: ..\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\usart1.o: ..\StdPeriph_Driver\inc\stm32f10x_dma.h
+.\usart1.o: ..\User\stm32f10x_it.h
+.\usart1.o: ..\User\externs.h
+.\usart1.o: ..\User\timer.h
+.\usart1.o: ..\User\All_Include.h
+.\usart1.o: ..\User\usart1.h
+.\usart1.o: ..\User\delay.h
+.\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
